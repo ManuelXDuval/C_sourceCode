@@ -1,14 +1,14 @@
 /******************************************************************************
-* cent2farheit -- temperature unit converter					 *
-*										 *	
-* Author: MxD									 *
-*										 *
-* Date: 12/27/2020					                        *
-*										 *
-* Pupose: convert Centigrad to Fahrenheit unit					 * 
-*										 *
-* Usage: invoke the program and enter a numeric value			 *
-*  										 *
+* cent2farheit -- temperature unit converter					                        *
+*										                                                          *	
+* Author: MxD									                                                *
+*										                                                          *
+* Date: 12/27/2020					                                                  *
+*										                                                          *
+* Pupose: convert Centigrad to Fahrenheit unit					                      *
+*										                                                          *
+* Usage: invoke the program and enter a numeric value			                    *
+*  										                                                        *
 ******************************************************************************/
 #include <stdio.h>
 #include <string.h>

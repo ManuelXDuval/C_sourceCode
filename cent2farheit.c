@@ -5,7 +5,7 @@
 *										                                                          *
 * Date: 12/27/2020					                                                  *
 *										                                                          *
-* Pupose: convert Centigrad to Fahrenheit unit					                      *
+* Purpose: convert Centigrad to Fahrenheit unit					                      *
 *										                                                          *
 * Usage: invoke the program and enter a numeric value			                    *
 *  										                                                        *

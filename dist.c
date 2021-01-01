@@ -7,7 +7,7 @@
 *										 *
 * Purpose: print distance between 2 points using the Pythagorean theorem	 * 
 *										 *
-* Usage: invoke the program and enter two integer values			 *
+* Usage: invoke the program and enter four integer values			 *
 *  										 *
 ******************************************************************************/
 
